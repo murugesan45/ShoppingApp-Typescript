@@ -1,0 +1,1 @@
+It is a sample shopping app project of using nestjs in serverless.
